@@ -69,5 +69,6 @@ python app.py
 
 
 🧑‍💻 Authors
+
 Narala Guru Lohitha
-(Feel free to add team members or contributors)
+
